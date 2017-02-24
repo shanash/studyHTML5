@@ -17,7 +17,7 @@ window.addEventListener("load", function()
            // 모든 파일의 로드 및 실행이 완료되면 호출된다.
            complete: function()
            {
-               // console.log("모든 파일이 로드되었습니다!");
+               console.log("모든 파일이 로드되었습니다!");
            }
         }
 
